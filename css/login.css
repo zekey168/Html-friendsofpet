@@ -1,0 +1,19 @@
+*{ margin:0; padding:0; list-style:none;}
+/*按钮背景色#ee2222*/
+body{ font-family:"黑体","微软雅黑"; font-size:18px; color:#333;}
+input{ border:0; font-size:16px;}
+a{ text-decoration:none; color:#ffffff;}
+#login{ width:500px; height:600px; margin:0 auto; border:1px solid #CCC; margin-top:20px; margin-top:100px;}
+.login_pic{
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	margin-top:20px;
+	background: url(../image/%E7%99%BB%E5%BD%95%E5%9B%BE%E6%A0%87.PNG) no-repeat;}
+.user{
+	width:420px; height:54px; border:1px solid #CCC; margin:0 auto; margin-top:40px; padding:10px 0 0 20px;}
+.user span{ height:46px; line-height:46px;}
+.login_text{ width:280px; height:46px; float:right; margin-right:16px; line-height:46px;}	
+.submit{ width:400px; height:54px; background-color:#1b1b1b; color:#FFF; text-align:center; margin:0 auto; margin-top:30px;}
+.submit_text{ margin-top:20px; height:54px; line-height:54px;}
+
